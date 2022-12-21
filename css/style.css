@@ -2153,15 +2153,15 @@ mark {
 	}
 
 	.header__background_castle {
-		background-image: url('/img/castle_1024.jpg');
+		background-image: url(img/castle_1024.jpg);
 	}
 	
 	.header__background_angels {
-		background-image: url('/img/angels_1024.jpg');
+		background-image: url(img/angels_1024.jpg);
 	}
 	
 	.header__background_nature {
-		background-image: url('/img/nature_1024.jpg');
+		background-image: url(img/nature_1024.jpg);
 	}
 
 	.header-top__search.search {
